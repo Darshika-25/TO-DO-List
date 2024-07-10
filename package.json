@@ -1,0 +1,21 @@
+{
+  "name": "@darshika.dev/todo_list",
+  "version": "1.0.0",
+  "description": "This is a cli TO_DO List developed using typescript, node.js, inquirer and chalk for colour vibrancy.",
+  "main": "index.js",
+	"type": "module", 
+	"bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darshika Parekh",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
